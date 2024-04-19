@@ -1,6 +1,6 @@
 # react-flask-mysql-template
 
-A basic app template for MySql, Python Flask, React, and Bootstrap.
+A basic app template for MySql, Python Flask, React, and Bootstrap. The app allows adding, editing, and deleting users from a database. Users have a single "name" field for example purposes.
 
 *This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).*
 
