@@ -1,0 +1,22 @@
+.mainComponent .btn-secondary {
+    margin: 10px;
+    padding: 0 10px;
+}
+
+.btn-secondary:hover {
+  outline: 2px solid #aa00dd;
+}
+
+.add-user .btn {
+  margin-left: 15px;
+}
+
+.users { margin-top: 10px; }
+
+.mainComponent p { margin: 0; }
+
+.user-field {
+  display: inline-block;
+  padding: 5px 7px;
+  border-radius: 4px;
+}
